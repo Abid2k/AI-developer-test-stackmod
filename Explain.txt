@@ -1,0 +1,3 @@
+From the dataset i take this folder as class : file_names = ['bed','bird','cat','dog','down', 'eight'], because its take more time to extract.
+For the model i have choose CNN, because in my working period in my previous company we have one project which find the audio from the carnatic music using mel frequency. its not my project but i have assist, that time they have choose the CNN model to extract the pitch. 
+
