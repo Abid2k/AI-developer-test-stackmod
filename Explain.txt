@@ -1,3 +1,9 @@
 From the dataset i take this folder as class : file_names = ['bed','bird','cat','dog','down', 'eight'], because its take more time to extract.
 For the model i have choose CNN, because in my working period in my previous company we have one project which find the audio from the carnatic music using mel frequency. its not my project but i have assist, that time they have choose the CNN model to extract the pitch. 
 
+
+Test_1 = file_names = ['bed','bird','cat','dog','down', 'eight'], its take too much time to extract, so i have choose first first five class. and model also take too much time to run so and its already 1 o  clock so i just push the code to the github and share the link.
+
+Test_2 = I extracted all classes from the dataset and selected the specific class you mentioned because if i run will all class it will take too much time. I then trained the model, evaluated its performance, and performed inference. You can see the results in the code.  After training, I encountered a syntax error in the label inverse dictionary, which I corrected. No other code changes were made.
+
+My Python version is python==3.11.4
